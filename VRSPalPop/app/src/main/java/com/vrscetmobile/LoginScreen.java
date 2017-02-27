@@ -12,6 +12,10 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 
+/**
+ * LoginClass
+ */
+
 public class LoginScreen extends AppCompatActivity {
 
     private LinearLayout loginContentView;
