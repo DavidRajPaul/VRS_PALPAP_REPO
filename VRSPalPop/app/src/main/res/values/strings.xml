@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VRS PalPap</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_as_student">Login as Student</string>
+    <string name="login_as_staff">Login as Staff</string>
+    <string name="title_activity_student_home_screen">StudentHomeScreen</string>
+</resources>
